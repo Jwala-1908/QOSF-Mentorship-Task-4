@@ -15,4 +15,11 @@ At [this link](https://lucaman99.github.io/new_blog/2020/mar16.html) you can fin
 
 ---
 
-This task was my first experience with QAOA, and I took it up for that very reason. My solution is meant to demonstrate my understanding of the algorithm as much as was possible within the time limit of 2 weeks, and the experience was definitely worth the time it took. I found many online tutorials implementing the MaxCut problems, some of which are linked in the references below.
+It is always a rewarding experience embarking on something new. As the quote goes:  
+
+_I find that a great part of the information I have was acquired by looking up something and finding something else along the way._ - Franklin P. Adams
+
+This task was my first experience with QAOA, and I took it up for that very reason. My solution is a reflection of my understanding of the algorithm as much as was possible within the time limit of 2 weeks. The experience was definitely worth the time it took. I found many online tutorials implementing the MaxCut problems, and sources describing the underlying concepts, some of which are linked in the references below.  
+
+
+## References
