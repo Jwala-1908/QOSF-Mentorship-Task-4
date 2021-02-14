@@ -20,7 +20,7 @@ At [this link](https://lucaman99.github.io/new_blog/2020/mar16.html) you can fin
 It is always a rewarding experience embarking on something new. As the quote goes:  
 
 _I find that a great part of the information I have was acquired by looking up something and finding something else along the way._  
-\hfill -Franklin P. Adams
+-Franklin P. Adams
 
 
 ## References
