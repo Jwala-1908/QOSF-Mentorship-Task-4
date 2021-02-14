@@ -7,7 +7,7 @@ There are two notebooks.
 
 * **Task_4_(additional)_Qiskit.ipynb**: Contains only code implementation, in _Qiskit_.
 
-This task was my first experience with the Quantum Approximate Optimization Algorithm (QAOA), as well as Cirq. It is a reflection of my understanding of the QAOA to the extent possible within the time limit of 2 weeks. The experience was definitely worth the time it took. I found many helpful online tutorials implementing the MaxCut problem, and sources describing the underlying concepts, some of which are linked in the references below.  
+This task was my first experience with the Quantum Approximate Optimization Algorithm (QAOA), as well as Cirq. It is a reflection of my understanding of the QAOA to the extent possible within the time limit of 2 weeks. I found many helpful online tutorials implementing the MaxCut problem, and sources describing the underlying concepts, some of which are linked in the references below.  
 
 ---
 
