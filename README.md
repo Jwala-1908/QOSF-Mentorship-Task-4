@@ -1,5 +1,9 @@
 # QOSF-Screening-Task-4
-This repository contains my solution to Screening Task 4 for the 3rd cohort of Quantum Open Source Foundation's Mentorship Program.
+This repository contains my solution to Screening Task 4 for the 3rd cohort of Quantum Open Source Foundation's Mentorship Program.  
+
+There are two notebooks. 
+* **Task_4.ipynb**: Main solution notebook. This notebook contains my main solution, detailing the algorithm and Cirq code implementation for the task. 
+* **Task_4_(additional)__Qiskit.ipynb**: The other, additional notebook contains only code implementation, in Qiskit. **This notebook is purely additional**.
 
 ---
 
