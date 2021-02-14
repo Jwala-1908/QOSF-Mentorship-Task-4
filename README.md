@@ -23,3 +23,12 @@ This task was my first experience with QAOA, and I took it up for that very reas
 
 
 ## References
+* Fun With Graphs and QAOA (https://lucaman99.github.io/new_blog/2020/mar16.html)
+* Quantum Approximate Optimization Algorithm Explained (https://www.mustythoughts.com/quantum-approximate-optimization-algorithm-explained)
+* QAOA: Max-Cut (https://quantumai.google/cirq/tutorials/qaoa)
+* Quantum approximate optimization algorithm for the Ising Model (https://quantumai.google/cirq/tutorials/educators/qaoa_ising)
+* Matrix Exponentials - Qiskit Textbook (https://qiskit.org/textbook/ch-appendix/linear_algebra.html#Matrix-Exponentials)
+* https://quantumcomputing.stackexchange.com/questions/2486/how-to-implement-a-matrix-exponential-in-a-quantum-circuit
+* Solving combinatorial optimization problems using QAOA - Qiskit Textbook (https://qiskit.org/textbook/ch-appendix/linear_algebra.html#Matrix-Exponentials)
+* QAOA for MaxCut(https://pennylane.ai/qml/demos/tutorial_qaoa_maxcut.html)
+* _Quantum Computing for Computer Scientists_ by Noson S Yanofsky and Mirco A. Mannucci
