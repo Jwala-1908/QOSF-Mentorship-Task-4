@@ -1,11 +1,13 @@
 # QOSF-Screening-Task-4
-This repository contains my solution to Screening Task 4 for the 3rd cohort of Quantum Open Source Foundation's Mentorship Program.  
+This repository contains my solution to Screening Task 4 for the 3rd cohort of [Quantum Open Source Foundation's Mentorship Program](https://qosf.org/qc_mentorship/).  
 
 There are two notebooks.  
 
-* **Task_4.ipynb**: Main solution notebook. This notebook contains my main solution, detailing the algorithm and _Cirq_ code implementation for the task.  
+* **Task_4.ipynb**: Main solution notebook. This notebook detailing the algorithm and _Cirq_ code implementation for the task.  
 
 * **Task_4_(additional)_Qiskit.ipynb**: Contains only code implementation, in _Qiskit_.
+
+This task was my first experience with QAOA, as well as Cirq. It is a reflection of my understanding of the algorithm as much as was possible within the time limit of 2 weeks. The experience was definitely worth the time it took. I found many helpful online tutorials implementing the MaxCut problem, and sources describing the underlying concepts, some of which are linked in the references below.  
 
 ---
 
@@ -18,8 +20,6 @@ At [this link](https://lucaman99.github.io/new_blog/2020/mar16.html) you can fin
 It is always a rewarding experience embarking on something new. As the quote goes:  
 
 _I find that a great part of the information I have was acquired by looking up something and finding something else along the way._ - Franklin P. Adams
-
-This task was my first experience with QAOA, and I took it up for that very reason. My solution is a reflection of my understanding of the algorithm as much as was possible within the time limit of 2 weeks. The experience was definitely worth the time it took. I found many online tutorials implementing the MaxCut problems, and sources describing the underlying concepts, some of which are linked in the references below.  
 
 
 ## References
