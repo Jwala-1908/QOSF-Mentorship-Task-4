@@ -11,7 +11,8 @@ This task was my first experience with QAOA, as well as Cirq. It is a reflection
 
 ---
 
-The task statement was as follows:
+The task statement was as follows:  
+#### Task 4
 _[The MaxCut Problem](https://en.wikipedia.org/wiki/Maximum_cut) is a well-known optimization problem in which the nodes of a given undirected graph have ot be divided in two sets (often referred as the set of "white" and "black" nodes) such that the number of edges connecting a white node with a black node are maximized. The MaxCut Problem is a problem on which the QAOA algorithm has proved to be useful (for an explanation of the QAOA algorithm you can read [this blogpost](https://www.mustythoughts.com/quantum-approximate-optimization-algorithm-explained).  
 At [this link](https://lucaman99.github.io/new_blog/2020/mar16.html) you can find an explicit implementation of the QAOA algorithm to solve the MaxCut Problem for the simpler case of an unweighted graph. We ask you to generalize the above code to include also the solution for the case of weighted graphs. You can use the same code or you can also do an alternative implementation using, for example, qiskit. The important point is that you do not make use of any built-in functionalities._
 
