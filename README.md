@@ -15,7 +15,7 @@ or the PDFs (of the same name) contained in the repository.
 
 ---
 
-This task was my first experience with the Quantum Approximate Optimization Algorithm (QAOA), as well as Cirq. It is a reflection of my understanding of the QAOA to the extent possible within the time limit of 2 weeks. I found many helpful online tutorials implementing the MaxCut problem, and sources describing the underlying concepts, some of which are linked in the references below.  
+This task was my first experience with the Quantum Approximate Optimization Algorithm (QAOA), as well as Cirq. I found many helpful online tutorials implementing the MaxCut problem, and sources describing the underlying concepts, some of which are linked in the references below.  
 
 The task statement was as follows:  
 #### Task 4
