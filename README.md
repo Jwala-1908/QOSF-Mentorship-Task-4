@@ -5,7 +5,7 @@ There are two notebooks in this repository.
 
 * **Task_4.ipynb**: Main solution notebook. This notebook detailing the algorithm and _Cirq_ code implementation for the task.  
 
-* **Task_4_(additional)_Qiskit.ipynb**: Contains only code implementation, in _Qiskit_.
+* **Task_4_(additional).ipynb**: Contains only code implementation, in _Qiskit_.
 
 If you face trouble opening the notebooks, try refreshing the page. If that doesn't work, please refer to the following links-
 * [Task_4.ipynb](https://nbviewer.jupyter.org/github/Jwala-1908/QOSF-Mentorship-Task-4/blob/main/Task_4.ipynb)
