@@ -1,4 +1,4 @@
-# QOSF-Screening-Task-4
+# QOSF Mentorship Program- Screening Task 4
 This repository contains my solution to Screening Task 4 for the 3rd cohort of [Quantum Open Source Foundation's Mentorship Program](https://qosf.org/qc_mentorship/).  
 
 There are two notebooks.  
