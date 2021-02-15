@@ -9,7 +9,7 @@ There are two notebooks in this repository.
 
 If you face trouble opening the notebooks, try refreshing the page. If that doesn't work, please refer to the following links-
 * [Task_4.ipynb](https://nbviewer.jupyter.org/github/Jwala-1908/QOSF-Mentorship-Task-4/blob/main/Task_4.ipynb)
-* [Task_4_(additional)_Qiskit.ipynb](https://nbviewer.jupyter.org/github/Jwala-1908/QOSF-Mentorship-Task-4/blob/main/Task_4_(additional)_Qiskit.ipynb)
+* [Task_4_(additional).ipynb](https://nbviewer.jupyter.org/github/Jwala-1908/QOSF-Mentorship-Task-4/blob/main/Task_4_(additional).ipynb)
 
 or the PDFs (of the same name) contained in the repository.
 
