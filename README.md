@@ -1,7 +1,7 @@
 # QOSF Mentorship Program- Screening Task 4
-This repository contains my solution to Screening Task 4 for the 3rd cohort of [Quantum Open Source Foundation's Mentorship Program](https://qosf.org/qc_mentorship/).  
+This repository contains my solution to Screening Task 4 for the 3rd cohort of [Quantum Open Source Foundation's Mentorship Program](https://qosf.org/qc_mentorship/), submitted February 2021.  
 
-There are two notebooks.  
+There are two notebooks in this repository.  
 
 * **Task_4.ipynb**: Main solution notebook. This notebook detailing the algorithm and _Cirq_ code implementation for the task.  
 
